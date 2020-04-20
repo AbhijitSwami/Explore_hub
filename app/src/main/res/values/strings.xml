@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Explore Hub</string>
+    <string name="YOUR_API_KEY">AIzaSyDgmr8SdDV4ggrrRkvwAdrwBTFMpb3Scbg</string>
+    <string name="button">ENGINEERING</string>
+    <string name="button17">FIRST_YEAR ENGINEERING</string>
+    <string name="button15">IT_ENGINEERING</string>
+    <string name="button2">COMPUTER ENGINEERING</string>
+    <string name="button3">MECHANICAL ENGINEERING</string>
+    <string name="button4">ENTC ENGINEERING</string>
+    <string name="button5">CIVIL ENGINEERING</string>
+    <string name="button6">QUESTIONS PAPER</string>
+    <string name="button7">EXPLORE</string>
+    <string name="button8">QUESTION PAPER</string>
+    <string name="button9">EXPLORE</string>
+    <string name="button10">QUESTION PAPER</string>
+    <string name="button11">EXPLORE</string>
+    <string name="button12">QUESTION PAPER</string>
+    <string name="button13">EXPLORE</string>
+    <string name="question_paper">QUESTION PAPER</string>
+    <string name="explore">EXPLORE</string>
+    <string name="computer_engineering">COMPUTER ENGINEERING</string>
+    <string name="entc_engineering">ENTC ENGINEERING</string>
+    <string name="civil_engineering">CIVIL ENGINEERING</string>
+    <string name="mechanical_engineering">MECHANICAL ENGINEERING</string>
+    <string name="first_year">FIRST YEAR</string>
+    <string name="button14">LIST_OF_REFERENCE_BOOKS</string>
+    <string name="button16">SEARCH</string>
+    <string name="instructions">Enter book name or part of it</string>
+    <string name="button_text">Search Books</string>
+    <string name="SearchBooks">SearchBooks</string>
+    <string name="input_hint">Enter book Title!</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_book_title">Enter book title!</string>
+    <string name="textview">TextView</string>
+    <string name="list_of_reference_books">LIST_OF_REFERENCE_BOOKS</string>
+    <string name="videos">VIDEOS</string>
+    <string name="title_activity_excomp2">EXCOMP2</string>
+    <string name="engineering">ENGINEERING</string>
+    <string name="welcome_to_explore_hub">WELCOME TO EXPLORE_HUB</string>
+    <string name="todo">TODO</string>
+    <string name="SearchBookTitlesQueryHint">Search Book Titles</string>
+    <string name="no_results_search">No results found for this search</string>
+    <string name="no_internet">No internet</string>
+    <string name="by_authors_string">by</string>
+    <string name="publicationyear_substring">Publication Year:</string>
+    <string name="explore_hub">EXPLORE_HUB</string>
+    <string name="explore_hub_an_exam_preparation_app_it_has_collection_of_question_papers_and_notes_for_engineering_to_get_prepare_for_exam">Explore_Hub an Exam preparation app,it has collection of question papers and notes for Engineering to get prepare for exam</string>
+
+
+</resources>
